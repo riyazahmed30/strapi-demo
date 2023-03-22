@@ -2120,7 +2120,7 @@
     "@strapi/utils" "4.8.1"
     fs-extra "10.0.0"
 
-"@strapi/strapi@4.8.1", "@strapi/strapi@^4.1.9":
+"@strapi/strapi@4.8.1":
   version "4.8.1"
   resolved "https://registry.npmjs.org/@strapi/strapi/-/strapi-4.8.1.tgz"
   integrity sha512-mbA2Z9tpZZTTJ25nDwk7nlPBQjsEcx4Ycc0ZspkLWcLYUhmBUiaK9MTNxVsitMpcKohAyX0/cfKP+mG/8xDjdg==
@@ -8594,15 +8594,6 @@ std-env@^3.0.1:
   version "3.3.2"
   resolved "https://registry.npmjs.org/std-env/-/std-env-3.3.2.tgz"
   integrity sha512-uUZI65yrV2Qva5gqE0+A7uVAvO40iPo6jGhs7s8keRfHCmtg+uB2X6EiLGCI9IgL1J17xGhvoOqSz79lzICPTA==
-
-strapi-plugin-netlify-deployments@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.npmjs.org/strapi-plugin-netlify-deployments/-/strapi-plugin-netlify-deployments-2.0.0.tgz"
-  integrity sha512-U3A66lsbze9mZSK1XlxFgKTc8yqKmAx1KHivmhx1stOmwfnucvWtuAIiDcA5GSxR9i23+IYzy5lAsu1gYZodYg==
-  dependencies:
-    "@strapi/strapi" "^4.1.9"
-    axios "^0.26.1"
-    react-intl "^5.25.1"
 
 strapi-plugin-vercel-deploy@^1.4.0:
   version "1.4.0"
