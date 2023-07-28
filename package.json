@@ -10,13 +10,13 @@
     "strapi": "strapi"
   },
   "dependencies": {
-    "@localazy/strapi-plugin": "^0.1.13-rc.7",
-    "@strapi/plugin-i18n": "4.8.1",
-    "@strapi/plugin-users-permissions": "4.8.1",
-    "@strapi/provider-upload-cloudinary": "^4.9.0",
-    "@strapi/strapi": "4.8.1",
-    "better-sqlite3": "8.0.1",
-    "pg": "^8.10.0"
+    "@localazy/strapi-plugin": "0.1.14",
+    "@strapi/plugin-i18n": "4.12.0",
+    "@strapi/plugin-users-permissions": "4.12.0",
+    "@strapi/provider-upload-cloudinary": "4.12.0",
+    "@strapi/strapi": "4.12.0",
+    "better-sqlite3": "8.5.0",
+    "pg": "8.11.1"
   },
   "author": {
     "name": "A Strapi developer"

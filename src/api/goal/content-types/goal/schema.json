@@ -79,6 +79,12 @@
         }
       },
       "type": "integer"
+    },
+    "subcategories": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::subcategory.subcategory",
+      "mappedBy": "goal"
     }
   }
 }
